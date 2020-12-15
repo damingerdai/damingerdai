@@ -1,5 +1,5 @@
 # Hi there 👋
-I am damingerdai.
+I am damingerdai, an Angular, Nodejs, Java developer from China 🚀.
 
 
 <br/>
