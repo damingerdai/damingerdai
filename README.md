@@ -8,7 +8,7 @@ I am damingerdai, an Full stack developer from China 🚀.
 * 🖥  I'm fullstack developer based in Shanghai, China.
 * 🔍 I'm currently looking for remote work.
 * 💼 I was working at <a href="https://www.linkedin.com/company/pwc-ac-shanghai" target="_blank">PwC Acceleration Center Shanghai</a>
-* ✍️  I wrote dev articles on <a href="https://www.dongwm.com" target="_blank">My Blog</a>
+* ✍️  I wrote dev articles on <a href="https://damingerdai.github.io" target="_blank">My Blog</a>
 * 🧐 I'm Interested in full stack, including front, backend and devops.
 
 **🌈 Languages and Tools:**
