@@ -39,3 +39,5 @@ I am damingerdai, an Full stack developer from China 🚀.
 [![hoteler](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=hoteler)](https://github.com/damingerdai/hoteler)
 
 [![health-master](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=health-master)](https://github.com/damingerdai/health-master)
+
+[![dotfile](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=dotfile)](https://github.com/damingerdai/dotfile)
