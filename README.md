@@ -28,16 +28,20 @@ I am damingerdai, an Full stack developer from China 🚀.
 
 ## 🌱 My github stats
  
-![damingerdai's github stats](https://github-readme-stats.vercel.app/api?username=damingerdai)
+![damingerdai's github stats](https://github-readme-stats.damingerdai.com/api?username=damingerdai)
 
 ## 📫 My most used languages
 
-![damingerdai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=damingerdai&show_icons=true&count_private=true&theme=gotham&layout=compact)
+![damingerdai's Most used languages](https://github-readme-stats.damingerdai.com/api/top-langs?username=damingerdai&show_icons=true&count_private=true&theme=gotham&layout=compact)
  
  ## 💬 My open source
 
-[![hoteler](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=hoteler)](https://github.com/damingerdai/hoteler)
+[![hoteler](https://github-readme-stats.damingerdai.com/api/pin/?username=damingerdai&repo=hoteler)](https://github.com/damingerdai/hoteler)
 
-[![health-master](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=health-master)](https://github.com/damingerdai/health-master)
+[![health-master](https://github-readme-stats.damingerdai.com/api/pin/?username=damingerdai&repo=health-master)](https://github.com/damingerdai/health-master)
 
-[![dotfile](https://github-readme-stats.vercel.app/api/pin/?username=damingerdai&repo=dotfile)](https://github.com/damingerdai/dotfile)
+[![dotfile](https://github-readme-stats.damingerdai.com/api/pin/?username=damingerdai&repo=dotfile)](https://github.com/damingerdai/dotfile)
+
+<!-- ## 🚀 My wakatime stats
+
+[![Arthur's wakatime stats](https://github-readme-stats.damingerdai.com/api/wakatime?username=damingerdai&layout=compact )](https://github.com/damingerdai)
