@@ -1,3 +1,4 @@
+![Hi, i am Arthur Ming](damingerdai.jpg)
 # Hi there 👋
 I am damingerdai, an Angular, Nodejs, Java developer from China 🚀.
 
