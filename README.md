@@ -2,7 +2,7 @@
 # Hi there 👋
 I am damingerdai, an Angular, Nodejs, Java developer from China 🚀.
 
-This [my blog](https://damingerdai.github.io/)
+[![](https://img.shields.io/badge/Blog-https://damingerdai.github.io&style=flat)](https://damingerdai.github.io)
 
 <br/>
 
