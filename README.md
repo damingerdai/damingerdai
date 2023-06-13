@@ -1,9 +1,9 @@
 ![Hi, i am Arthur Ming](damingerdai.jpg)
 # **Hi there 👋**
 
-I am damingerdai, an Full stack developer from China 🚀.
+I am damingerdai, an full stack developer from China 🚀.
 
-[![](https://img.shields.io/badge/Blog-%E5%A4%A7%E6%98%8E%E4%BA%8C%E4%BB%A3%E7%9A%84%E5%8D%9A%E5%AE%A2-green&style=flat)](https://damingerdai.github.io)
+[![damingerdai's blog](https://img.shields.io/badge/Blog-damingerdai's%20blog-green&style=flat)](https://damingerdai.github.io)
 
 * 🖥  I'm fullstack developer based in Shanghai, China.
 * 🔍 I'm currently looking for remote work.
