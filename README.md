@@ -1,15 +1,15 @@
 ![Hi, i am Arthur Ming](damingerdai.jpg)
+
 # **Hi there 👋**
 
 I am damingerdai, an full stack developer from China 🚀.
 
 [![damingerdai's blog](https://img.shields.io/badge/Blog-damingerdai's%20blog-green&style=flat)](https://damingerdai.github.io)
 
-* 🖥  I'm fullstack developer based in Shanghai, China.
-* 🔍 I'm currently looking for remote work.
-* 💼 I was working at <a href="https://www.linkedin.com/company/pwc-ac-shanghai" target="_blank">PwC Acceleration Center Shanghai</a>
-* ✍️  I wrote dev articles on <a href="https://damingerdai.github.io" target="_blank">My Blog</a>
-* 🧐 I'm Interested in full stack, including front, backend and devops.
+- 🖥 I'm fullstack developer based in Shanghai, China.
+- 💼 I was working at <a href="https://www.linkedin.com/company/pwc-ac-shanghai" target="_blank">PwC Acceleration Center Shanghai</a>
+- ✍️ I wrote dev articles on <a href="https://damingerdai.github.io" target="_blank">My Blog</a>
+- 🧐 I'm Interested in full stack, including front, backend and devops.
 
 **🌈 Languages and Tools:**
 
@@ -27,14 +27,14 @@ I am damingerdai, an full stack developer from China 🚀.
 </p>
 
 ## 🌱 My github stats
- 
+
 ![damingerdai's github stats](https://github-readme-stats.damingerdai.com/api?username=damingerdai)
 
 ## 📫 My most used languages
 
 ![damingerdai's Most used languages](https://github-readme-stats.damingerdai.com/api/top-langs?username=damingerdai&show_icons=true&count_private=true&theme=gotham&layout=compact)
- 
- ## 💬 My open source
+
+## 💬 My open source
 
 [![hoteler](https://github-readme-stats.damingerdai.com/api/pin/?username=damingerdai&repo=hoteler)](https://github.com/damingerdai/hoteler)
 
