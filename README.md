@@ -7,7 +7,7 @@ I am damingerdai, a full stack developer from China 🚀.
 [![damingerdai's blog](https://img.shields.io/badge/Blog-damingerdai's%20blog-green&style=flat)](https://damingerdai.github.io)
 
 - 🖥 I'm a full-stack developer based in Shanghai, China.
-- 💼 I was working at <a href="https://www.linkedin.com/company/pwc-ac-shanghai" target="_blank">PwC Acceleration Center Shanghai</a>.
+- 💼 I am looking for a job.
 - ✍️ I wrote dev articles on <a href="https://damingerdai.github.io" target="_blank">My Blog</a>.
 - 🧐 I'm interested in full stack, including front, backend and devops.
 
