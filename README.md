@@ -13,7 +13,6 @@ I am damingerdai, a full stack developer from China 🚀.
 
 **🌈 Languages and Tools:**
 
-<p align="left">
 <img src="https://angular.io/assets/images/logos/angular/shield-large.svg" alt="angular" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
@@ -24,7 +23,6 @@ I am damingerdai, a full stack developer from China 🚀.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-</p>
 
 ## 🌱 My github stats
 
